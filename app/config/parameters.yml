@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: "localhost"
+    database_port: "3306"
+    database_name: "litemed1_tudb"
+    database_user: "litemed1_tuuser"
+    database_password: "123Pass!1000000"
+    mailer_transport: "smtp"
+    mailer_host: "mail.tuniceworld.litemediaweb.com.ng"
+    mailer_user: "support@tuniceworld.litemediaweb.com.ng"
+    mailer_password: "123Pass!1000000"
+    secret: "2d77c4f071de0de84c8ccddd698c94ae07fd1eba"
